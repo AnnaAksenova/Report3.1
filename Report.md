@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты: 
 
-* [Карта состоящая из 14 символов невалидна](71https://github.com/AnnaAksenova/Report3.1/issues/1#issue-8848503)
+* [Карта состоящая из 14 символов невалидна](https://github.com/AnnaAksenova/Report3.1/issues/1#issue-8848503)
 * [Карта состоящая из 15 символов невалидна](https://github.com/AnnaAksenova/Report3.1/issues/2#issue-884867903)
 * [Карта состоящая из 19 символов невалидна](https://github.com/AnnaAksenova/Report3.1/issues/3#issue-884874961)
 
